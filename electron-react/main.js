@@ -11,7 +11,7 @@ function createWindow() {
   });
 
   //load the index.html from a url
-  win.loadURL("http://localhost:3000");
+  win.loadURL("http://localhost:5173");
 
   // Open the DevTools.
   win.webContents.openDevTools();
